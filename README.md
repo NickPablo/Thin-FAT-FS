@@ -8,4 +8,5 @@ Not as mature as PFS, TFS definitely requires optimization and it is going to be
       1. Supports MBR. You can mount any partition ( up to 4) in an MMC/SD card.
       2. FAT16/FAT32 auto recognition. Both FAT system are monolitihically supported.
       3. No support for subdirectories/folders. Files have to be in the root directory.
-      4. Read and/or Write support. Files are cannot grow/shrink. And just like the PFS, TFS will not mind Read-only & Hidden attributes.
+      4. Read and/or Write support. Files are cannot grow/shrink. And just like the PFS, 
+         TFS will not mind Read-only & Hidden attributes.
