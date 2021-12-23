@@ -16,4 +16,5 @@ TFS in a nutshell:
          and it has no facility to create or delete any file. However, I have provided a batch 
          file that can be used to propagate dummy files of virtually any size.
       5. TFS ( tfs.c & tfs.h) are realeased under GNU 3.0. Hence you must be aware of the license conditions.
+         The disk access layer is part of Elm ChaN's PFS library which I used here with small modifications.
          
