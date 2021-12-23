@@ -6,6 +6,7 @@ The Thin FAT FS has been tested in both mid-range (PIC16F887) and high-end (PIC1
 Not as mature as PFS, TFS definitely requires optimization and it is going to be part of the roadmap for this project. 
 
 TFS in a nutshell:
+
       1. Supports MBR. You can mount any partition ( up to 4) in an MMC/SD card.
       2. FAT16/FAT32 auto recognition. Both FAT system are monolitihically supported. If you 
          want to save some flash/RAM space, you can split the code into FAT16/FAT32-only supportive.
