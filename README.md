@@ -18,3 +18,4 @@ TFS in a nutshell:
       5. TFS ( tfs.c & tfs.h) are realeased under GNU 3.0. Hence you must be aware of the license conditions.
          The disk access layer is part of Elm ChaN's PFS library which I used here with small modifications.
          
+Here's the related application blog: https://nipahut136.wordpress.com/2021/12/26/thin-fat-file-system-for-ccs-c/
